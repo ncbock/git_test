@@ -1,0 +1,3 @@
+Hello World!
+
+This is part of The Odin Project introduction to Git lesson
